@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandaniBansal1
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning .NET 
+- 👀 I’m interested in Game Development & Generative AI
+- 🌱 I’m currently working on RAG models and Openshift
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me - email (nandanibansal2001@gmail.com)
 
